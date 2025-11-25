@@ -1,0 +1,32 @@
+[
+  {
+    "id": "variables",
+    "title": "Variables",
+    "summary": "Variables are used to store data values that can be used and manipulated throughout a program. They act as containers that hold information which can be referenced and changed. In Python, you can create a variable by simply assigning a value to a name using the equals sign (=). For example: 'x = 5' creates a variable named 'x' and assigns it the value 5. Variables make code more readable, reusable, and maintainable by giving meaningful names to values.",
+    "sample_question": "What is a variable and why is it useful in programming?"
+  },
+  {
+    "id": "loops",
+    "title": "Loops",
+    "summary": "Loops are control structures that repeat a block of code multiple times. The two main types of loops in Python are 'for' loops and 'while' loops. A 'for' loop is used to iterate over a sequence (like a list, tuple, or string) and execute a block of code for each item in the sequence. A 'while' loop continues to execute a block of code as long as a specified condition is true. Loops help automate repetitive tasks and make code more efficient by reducing redundancy.",
+    "sample_question": "Explain the difference between a 'for' loop and a 'while' loop in Python."
+  },
+  {
+    "id": "functions",
+    "title": "Functions",
+    "summary": "Functions are reusable blocks of code that perform a specific task. They help break down complex problems into smaller, more manageable parts, making code more organized and easier to understand. In Python, you can define a function using the 'def' keyword followed by the function name and parentheses. Functions can take parameters (inputs) and return values. They promote code reusability and make it easier to debug and maintain code.",
+    "sample_question": "What is the purpose of functions in programming and how do they improve code organization?"
+  },
+  {
+    "id": "conditionals",
+    "title": "Conditional Statements",
+    "summary": "Conditional statements allow your program to make decisions based on certain conditions. In Python, the main conditional statements are 'if', 'elif' (else if), and 'else'. These statements evaluate whether a condition is true or false and execute different blocks of code accordingly. Conditional statements are fundamental for creating programs that can respond differently to different inputs or situations, making programs more dynamic and interactive.",
+    "sample_question": "How do conditional statements work in programming and why are they important?"
+  },
+  {
+    "id": "lists",
+    "title": "Lists and Arrays",
+    "summary": "Lists (in Python) or arrays (in many other languages) are data structures that store collections of items. In Python, lists are ordered, changeable, and allow duplicate values. They are created using square brackets [], and items are separated by commas. Lists are versatile and can contain items of different data types. They support various operations like adding, removing, and modifying items. Lists are essential for storing and manipulating collections of data in an organized way.",
+    "sample_question": "What are lists in Python and what are some common operations you can perform on them?"
+  }
+]

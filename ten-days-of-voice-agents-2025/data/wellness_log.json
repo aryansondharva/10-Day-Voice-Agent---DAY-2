@@ -1,0 +1,105 @@
+{
+  "version": "1.0",
+  "lastUpdated": "2025-11-24T19:30:00+05:30",
+  "entries": [
+    {
+      "date": "2025-11-24",
+      "sleep": {
+        "durationHours": 7.5,
+        "quality": 8,
+        "bedtime": "23:00",
+        "wakeupTime": "06:30",
+        "notes": "Slept well, woke up refreshed"
+      },
+      "nutrition": {
+        "totalCalories": 1800,
+        "meals": [
+          {
+            "type": "breakfast",
+            "time": "07:30",
+            "description": "Oatmeal with fruits and nuts",
+            "calories": 350,
+            "macros": {
+              "proteinGrams": 12,
+              "carbsGrams": 55,
+              "fatGrams": 8
+            }
+          },
+          {
+            "type": "lunch",
+            "time": "13:00",
+            "description": "Grilled chicken salad",
+            "calories": 450,
+            "macros": {
+              "proteinGrams": 35,
+              "carbsGrams": 20,
+              "fatGrams": 25
+            }
+          },
+          {
+            "type": "dinner",
+            "time": "20:00",
+            "description": "Salmon with quinoa and vegetables",
+            "calories": 550,
+            "macros": {
+              "proteinGrams": 40,
+              "carbsGrams": 45,
+              "fatGrams": 22
+            }
+          },
+          {
+            "type": "snacks",
+            "time": "16:30",
+            "description": "Greek yogurt with honey",
+            "calories": 150,
+            "macros": {
+              "proteinGrams": 12,
+              "carbsGrams": 15,
+              "fatGrams": 5
+            }
+          }
+        ],
+        "hydration": {
+          "totalWaterMl": 2500,
+          "otherBeverages": [
+            {
+              "type": "green tea",
+              "amountMl": 300,
+              "time": "08:00"
+            },
+            {
+              "type": "herbal tea",
+              "amountMl": 300,
+              "time": "21:00"
+            }
+          ]
+        }
+      },
+      "activity": {
+        "steps": 8500,
+        "workouts": [
+          {
+            "type": "running",
+            "durationMinutes": 30,
+            "intensity": "moderate",
+            "caloriesBurned": 250
+          },
+          {
+            "type": "strength training",
+            "durationMinutes": 45,
+            "muscleGroups": ["chest", "shoulders", "triceps"],
+            "caloriesBurned": 200
+          }
+        ]
+      },
+      "mood": {
+        "rating": 8,
+        "energyLevel": 7,
+        "stressLevel": 3,
+        "notes": "Felt productive and focused throughout the day"
+      },
+      "notes": "Overall a great day with balanced nutrition and good activity levels. Need to drink more water in the afternoon."
+    }
+  ]
+}
+                  
