@@ -1,0 +1,47 @@
+[
+  {
+    "id": "order-033f9630",
+    "items": [
+      {
+        "product_id": "tee-002",
+        "name": "Casual Cotton Tee",
+        "unit_price": 299,
+        "quantity": 1,
+        "line_total": 299,
+        "attrs": {}
+      },
+      {
+        "product_id": "tee-004",
+        "name": "Premium Polo Tee",
+        "unit_price": 999,
+        "quantity": 1,
+        "line_total": 999,
+        "attrs": {}
+      },
+      {
+        "product_id": "tee-001",
+        "name": "Batman Tee (Cotton)",
+        "unit_price": 799,
+        "quantity": 1,
+        "line_total": 799,
+        "attrs": {}
+      },
+      {
+        "product_id": "tee-003",
+        "name": "Graphic Tee",
+        "unit_price": 499,
+        "quantity": 1,
+        "line_total": 499,
+        "attrs": {}
+      }
+    ],
+    "total": 2596,
+    "currency": "INR",
+    "created_at": "2025-11-30T08:10:29.943389Z"
+  }
+]
+
+
+
+
+
